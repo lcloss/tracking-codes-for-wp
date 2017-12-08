@@ -4,7 +4,7 @@
 ## Códigos de acompanhamento
 Atualmente o plugin adiciona os seguintes códigos de acompanhamento ao site:
 <ul>
-	<li>Google Analytics</li>
-	<li>Google Tag Manager</li>
-	<li>Google AdWords Remarketing</li>
+	<li>[Google Analytics](https://www.google.com/analytics/)</li>
+	<li>[Google Tag Manager](https://www.google.com/analytics/tag-manager/)</li>
+	<li>[Google AdWords Remarketing](https://adwords.google.com/home/)</li>
 </ul>
