@@ -1,4 +1,4 @@
-# tracking-code-for-wp
+# Tracking Codes for WP
 <b>Tracking Code for WP</b> é um [plugin](https://developer.wordpress.org/plugins/intro/what-is-a-plugin/) para [WordPress](https://wordpress.org/) que permite adicionar os códigos de acompanhamento do Google em um webisite com [WordPress](https://wordpress.org/).
 
 ## Códigos de acompanhamento
